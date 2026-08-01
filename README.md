@@ -97,7 +97,10 @@ The final dashboard is built using **Power BI** and provides an **interactive an
 
 > ✅ Each chart answers a specific business question  
 > 📊 KPIs are displayed in cards and matrix format for clarity  
-> 🌐 Geographic visuals help identify location-based performance trends  
+> 🌐 Geographic visuals help identify location-based performance trends
+> 
+<img width="764" height="448" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/3d120377-a792-4ba6-a930-88f50a01af42" />
+
 
 ---
 
