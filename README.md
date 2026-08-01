@@ -117,16 +117,6 @@ Using **Pandas and Matplotlib**, we:
 - Quick pivot tables for checking metrics
 - Manual KPI calculations for cross-verification
 
----
-
-## 🚀 Key Takeaways
-
-- Leveraged multiple tools to simulate real-world BI workflow
-- Gained business insights that can drive marketing and inventory decisions
-- Built a compelling and easy-to-navigate dashboard for stakeholders
-- Strengthened hands-on skills in data storytelling and BI presentation
-
----
 
 ## 📁 Project Structure
 
@@ -137,17 +127,5 @@ Using **Pandas and Matplotlib**, we:
 ├── 📄 Documentation (Insights.pdf, README.md)
 
 
----
 
-## 🙋‍♀️ About Me
-
-**Snehal Nalawade**  
-💼 Aspiring Data Analyst | Passionate about BI and storytelling  
-📧 snehalrnalawade2003@gmail.com 
-📍 India  
-
-
----
-
-## 🙏 Thank You!
 
